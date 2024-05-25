@@ -1,17 +1,17 @@
-<h1 align="center">Nobibi</h1>
+<h1 align="center">forum</h1>
 
 > Nobibi is a lightweight open source forum，Quickly build your own forum
 
-## Quick Start
+##forum Start
 
 > Make sure you have started [Nobibi-api](https://github.com/seawind8888/Nobibi-api)
 
-1. Clone project code.
+1. Clone project code.forumforum
 
 ```
 git clone https://github.com/Agentchow/Forum.git my-project
 ```
-
+forum
 2. Installation dependence.
 
 ```
@@ -29,8 +29,8 @@ npm run start
 - Frontend
   ![image](/screenshot/screenshot1.png)
   ![image](/screenshot/screenshot2.png)
-  ![image](/screenshot/screenshot3.png)
-- Frontend（mobile）
+  !forum](/screenshot/screenshot3.png)forumforum
+- Fforumd（mobile）forumforum
   ![image](/screenshot/mobile.jpg)
 - Admin
   ![image](/screenshot/demo.gif)

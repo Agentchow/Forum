@@ -19,7 +19,7 @@ const Register: NextPage<{}> = () => {
     fieldsValue.password = md5(fieldsValue.password)
     const data = await userRegister(fieldsValue);
     if (data.success) {
-      message.success('注册成功，欢迎来到Nobibi，也请别瞎bibi');
+      message.success('注册成功，欢迎来到forum，也请别瞎bibi');
       Router.push('/login');
     }
   }

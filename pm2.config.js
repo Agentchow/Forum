@@ -1,7 +1,7 @@
 module.exports = {
   apps: [
     {
-      name: 'Nobibi',
+      name: 'forum',
       script: './server.js',
       cwd: './', // current workspace
       watch: [

@@ -53,7 +53,7 @@ const NoHeader: NextPage<NoHeaderProps> = (props) => {
             onClick={onToggle}
           /> */}
         <h1 className='header-title' onClick={handleGotoHome}>
-          Nobibi
+          forum
           </h1>
         <Search
           placeholder='搜搜bibi'
