@@ -1,7 +1,5 @@
 <h1 align="center">Nobibi</h1>
 
-[简体中文](./README.md) | English
-
 > Nobibi is a lightweight open source forum，Quickly build your own forum
 
 ## Quick Start
@@ -11,13 +9,12 @@
 1. Clone project code.
 
 ```
-git clone https://github.com/seawind8888/Nobibi my-project
+git clone https://github.com/Agentchow/Forum.git my-project
 ```
 
 2. Installation dependence.
 
 ```
-cd my-porject
 npm install or yarn
 ```
 
@@ -27,12 +24,7 @@ npm install or yarn
 npm run start
 ```
 
-## Associated project
-
-- [Nobibi-api](https://github.com/seawind8888/Nobibi-api) - Nobibi Api Part
-- [Nobibi-admin](https://github.com/seawind8888/Nobibi-admin) - Nobibi Admin
-
-## Sreenshot
+## Screenshot
 
 - Frontend
   ![image](/screenshot/screenshot1.png)
