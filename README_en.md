@@ -11,7 +11,9 @@
 ```
 git clone https://github.com/Agentchow/Forum.git my-project
 ```
+
 forum
+
 2. Installation dependence.
 
 ```
@@ -29,8 +31,8 @@ npm run start
 - Frontend
   ![image](/screenshot/screenshot1.png)
   ![image](/screenshot/screenshot2.png)
-  !forum](/screenshot/screenshot3.png)forumforum
-- Fforumd（mobile）forumforum
+  ![forum](/screenshot/screenshot3.png)
+- Mobile
   ![image](/screenshot/mobile.jpg)
 - Admin
   ![image](/screenshot/demo.gif)
