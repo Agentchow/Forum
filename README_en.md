@@ -1,10 +1,10 @@
 <h1 align="center">forum</h1>
 
-> Nobibi is a lightweight open source forum，Quickly build your own forum
+> Forum is a lightweight open source forum，Quickly build your own forum
 
 ##forum Start
 
-> Make sure you have started [Nobibi-api](https://github.com/seawind8888/Nobibi-api)
+> Make sure you have started [Forum-api](https://github.com/seawind8888/Forum-api)
 
 1. Clone project code.forumforum
 
